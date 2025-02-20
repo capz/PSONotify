@@ -1,0 +1,54 @@
+﻿{
+	"notifications": [
+		{
+			"name": "mag",
+			"soundEffectId": 0,
+			"intervalMin": 0,
+			"willObaySilenceWhilePlaying": true
+			"style": 0,
+			"elapsedMinutes": 0,
+			"autoResetsAfterElapse": true,
+			"enabled": false
+		},
+		{
+			"name": "partner",
+			"soundEffectId": 0,
+			"intervalMin": 0,
+			"willObaySilenceWhilePlaying": true
+			"style": 0,
+			"elapsedMinutes": 0,
+			"autoResetsAfterElapse": true,
+			"enabled": false
+		},
+		{
+			"name": "emergency",
+			"soundEffectId": 0,
+			"intervalMin": 0,
+			"willObaySilenceWhilePlaying": true
+			"style": 0,
+			"elapsedMinutes": 0,
+			"autoResetsAfterElapse": true,
+			"enabled": false
+		},
+		{
+			"name": "live",
+			"soundEffectId": 0,
+			"intervalMin": 0,
+			"willObaySilenceWhilePlaying": true
+			"style": 0,
+			"elapsedMinutes": 0,
+			"autoResetsAfterElapse": true,
+			"enabled": false
+		},
+		{
+			"name": "interrupt",
+			"soundEffectId": 0,
+			"intervalMin": 0,
+			"willObaySilenceWhilePlaying": true
+			"style": 0,
+			"elapsedMinutes": 0,
+			"autoResetsAfterElapse": true,
+			"enabled": false
+		},
+	}
+}

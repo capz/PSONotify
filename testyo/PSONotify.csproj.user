@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Leroy\Desktop\PSONotify_Build\|ftp://109.225.94.242/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://109.225.94.242/capz/</InstallUrlHistory>
+    <SupportUrlHistory>http://pewpewplusplus.blogspot.nl/2013/05/psonotify-know-when-eqs-are-up-without.html</SupportUrlHistory>
+    <UpdateUrlHistory>http://109.225.94.242/capz/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>
+    </ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+</Project>
