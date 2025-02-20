@@ -6,3 +6,6 @@ features:
 - shows as notification balloons any emergency quests using pso2 sound effects
 - configurable how/what/when you want the app to inform you
 - starts with windows, if you want it to
+
+  issues:
+  - it's a little flaky; when the format of the tweets changes, the app will no longer be able to detect announcements, this has happend a few times during its lifetime
